@@ -1,4 +1,4 @@
-#Expense Request Approval Process - Project README
+#Expense Request Approval Process
 Project Overview
 This project aims to automate the approval workflow for employee expense requests in Salesforce. Employees will submit expense requests that require manager approval based on configurable thresholds. The process will include submission, multi-level approvals, and notifications to relevant users.
 
@@ -32,7 +32,7 @@ Test the approval process end-to-end.
 Optimize and expand with conditional routing or multi-level approvals as needed.
 
 Project Contacts
-Project Owner: [Your Name]
+Project Owner: Hari Sree Munella
 
 Admin Lead: [Name]
 
