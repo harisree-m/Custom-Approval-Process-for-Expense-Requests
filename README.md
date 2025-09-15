@@ -57,9 +57,5 @@ Project Contacts
 
 Project Owner: Hari Sree Munella
 
-Admin Lead: [Name]
-
-Developer Lead: [Name]
-
 Notes
 This project will evolve with stakeholder feedback and may be integrated with other HR or finance systems for expense tracking.
