@@ -4,6 +4,23 @@ Project Overview
 
 This project aims to automate the approval workflow for employee expense requests in Salesforce. Employees will submit expense requests that require manager approval based on configurable thresholds. The process will include submission, multi-level approvals, and notifications to relevant users.
 
+
+Problem statement:
+
+Automate the approval workflow for employee expense requests in Salesforce. Employees will submit expense requests that require manager approval based on configurable thresholds
+
+1.Results-driven software developer specializing in mobile apps and API integration.
+
+2.Expertise in dynamic forms and real-time route optimization solutions.
+
+3.Experienced in managing hackathon projects with strong presentation skills.
+
+4.Skilled in AI model evaluation and bilingual communication (English & Telugu).
+
+5.Adept at integrating external APIs, including Waze for traffic data.
+
+6.Committed to continuous learning in quantum computing and enterprise tech.
+
 Objectives
 
 Create a custom object Expense Request to track expense details.
